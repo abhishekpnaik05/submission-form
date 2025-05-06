@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/abhishekpnaik05/submission-form.git/static/css/main.13dbdf01.css",
-    "main.js": "/abhishekpnaik05/submission-form.git/static/js/main.02226e00.js",
-    "static/js/453.f8891d37.chunk.js": "/abhishekpnaik05/submission-form.git/static/js/453.f8891d37.chunk.js",
-    "index.html": "/abhishekpnaik05/submission-form.git/index.html",
-    "main.13dbdf01.css.map": "/abhishekpnaik05/submission-form.git/static/css/main.13dbdf01.css.map",
-    "main.02226e00.js.map": "/abhishekpnaik05/submission-form.git/static/js/main.02226e00.js.map",
-    "453.f8891d37.chunk.js.map": "/abhishekpnaik05/submission-form.git/static/js/453.f8891d37.chunk.js.map"
+    "main.css": "/submission-form/static/css/main.13dbdf01.css",
+    "main.js": "/submission-form/static/js/main.96605954.js",
+    "static/js/453.f8891d37.chunk.js": "/submission-form/static/js/453.f8891d37.chunk.js",
+    "index.html": "/submission-form/index.html",
+    "main.13dbdf01.css.map": "/submission-form/static/css/main.13dbdf01.css.map",
+    "main.96605954.js.map": "/submission-form/static/js/main.96605954.js.map",
+    "453.f8891d37.chunk.js.map": "/submission-form/static/js/453.f8891d37.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.13dbdf01.css",
-    "static/js/main.02226e00.js"
+    "static/js/main.96605954.js"
   ]
 }
